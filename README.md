@@ -1,36 +1,37 @@
 # coffee-sales-analysis
 
-Este é o meu primeiro projeto de análise de dados, utilizando a base de dados Coffee Sales do Kaggle. O objetivo deste projeto é explorar e analisar as informações de vendas de café, utilizando as bibliotecas pandas, matplotlib e numpy para realizar a manipulação dos dados e gerar insights significativos.
+# ☕ Análise de Vendas de uma Cafeteria
 
-Estrutura do Repositório
-Este repositório contém:
+Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) com foco nas vendas de uma cafeteria. Utilizando bibliotecas populares do ecossistema Python como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**, buscamos entender padrões de consumo, produtos mais vendidos, sazonalidade e insights para otimizar estratégias de vendas.
 
-notebooks/: Google Colab para análise e visualização de dados.
+## 📊 Tecnologias Utilizadas
 
-scripts/: Scripts Python auxiliares para pré-processamento e análise.
+- [Python 3.x](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
 
-data/: Arquivos de dados utilizados (caso tenha feito upload direto no repositório).
+## 📁 Estrutura do Projeto
 
-README.md: Este arquivo com informações sobre o projeto.
 
-Objetivo do Projeto
-O objetivo deste projeto é analisar a base de dados de vendas de café, buscando padrões e insights que possam ser úteis para entender o comportamento das vendas e ajudar na tomada de decisões. Alguns dos principais objetivos incluem:
+## 📌 Objetivos da Análise
 
-Carregar e limpar o dataset.
+- Identificar os produtos mais vendidos.
+- Avaliar a distribuição de vendas ao longo do tempo.
+- Verificar padrões de comportamento dos clientes.
+- Explorar relações entre variáveis relevantes.
+- Gerar visualizações que apoiem insights estratégicos.
 
-Explorar estatísticas descritivas.
+## 📂 Fonte dos Dados
 
-Analisar correlações e tendências ao longo do tempo.
+Os dados utilizados neste projeto foram obtidos através do Kaggle e estão disponíveis no seguinte link:
 
-Visualizar as vendas de café utilizando gráficos e outras representações visuais.
+🔗 [Cafeteria Sales Dataset - Kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
-Tecnologias Utilizadas
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+> *Obs: O link pode variar conforme o dataset utilizado. Adapte conforme necessário.*
 
-Python: Linguagem principal utilizada para análise.
+## 🚀 Como Executar
 
-pandas: Para manipulação e análise de dados.
-
-matplotlib: Para visualização de dados.
-
-numpy: Para operações numéricas e manipulação de arrays.
+1. Clone este repositório:
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
