@@ -29,8 +29,6 @@ Os dados utilizados neste projeto foram obtidos através do Kaggle e estão disp
 
 🔗 [Cafeteria Sales Dataset - Kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
-> *Obs: O link pode variar conforme o dataset utilizado. Adapte conforme necessário.*
-
 ## 🚀 Como Executar
 
 1. Clone este repositório:
