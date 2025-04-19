@@ -10,6 +10,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 - [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
 
 ## 📁 Estrutura do Projeto
 
