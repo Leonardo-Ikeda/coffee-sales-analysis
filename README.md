@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
 ## 📊 Tecnologias Utilizadas
 
-- [Python 3.x](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
